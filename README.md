@@ -5,7 +5,8 @@ JED is the server side business logic for web applications needed to perform CRU
 database systems: MySQL, MS SQL Server, and Oracle.
 
 The complete download package exceeds GitHub's maximum file size restriction, therefore, it is
-recommended you download the complete zip archive package from our website.
+recommended you download the complete zip archive package from our website.  It contains all
+dependancy jar files and other resources.
 
 Website URL: http://jed-datatables.net
 
