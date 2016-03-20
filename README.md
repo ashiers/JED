@@ -31,8 +31,8 @@ setting up your next project: http://jed-datatables.net/gettingstarted.jsp
 JED is free of charge and regarded as open-source software.  It is protected under the
 GNU General Public License, version 2.  See: http://www.gnu.org/licenses/gpl-2.0.html
 
-JED is provided on an "as is" basis without warranty.  Report any bugs to support@jed-datatables.net
-You can load the source files at your discretion and make any alterations you wish to suit your
-own requirements, however, Tactical Enterprises Ltd. and any persons associated with
-Tactical Enterprises Ltd. will not be liable for any damage or loss of data due to your use
-of JED, and any alterations made to it resulting in said damage or data loss, by the end user.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
